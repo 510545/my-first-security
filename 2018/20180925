@@ -1,4 +1,4 @@
-##binwalk指令
+binwalk指令
 Signature Scan Options:
     -B, --signature              Scan target file(s) for common file signatures
     -R, --raw=<str>              Scan target file(s) for the specified sequence of bytes
