@@ -1,4 +1,6 @@
 python錯誤訊息
+正確：radius = eval(input("Enter a number for radius: "))
+錯誤：radius = input("Enter a number for radius: ")
 #!/usr/bin/env python
 #coding=utf-8
 
