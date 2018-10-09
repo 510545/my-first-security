@@ -1,4 +1,4 @@
-#openssl 指令
+# openssl 指令
 
 Standard commands
 asn1parse         ca                ciphers           cms               
