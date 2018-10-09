@@ -1,4 +1,4 @@
-openssl 指令
+# openssl 指令
 
 Standard commands
 asn1parse         ca                ciphers           cms               
@@ -37,7 +37,7 @@ seed-ofb
 
 
 
-建立資料檔：
+# 建立資料檔：
 echo "123456789" >data.txt
 echo "a1232456789" >data2.txt
 echo "A123456789" >data3.txt
